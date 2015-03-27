@@ -13,4 +13,5 @@ pour le logo j'hésite entre:
 n'hésitez pas à me contacter pour déployer votre Borge sur ma Git
 
 PS: n'oubliez pas il est important d'apporter son bout de Git
+
 PS2: si vous n'arrivez pas à commiter, Pas de bol pour les Gits
